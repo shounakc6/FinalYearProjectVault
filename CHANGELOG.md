@@ -2,6 +2,10 @@
 
 All notable changes to the FinalYearProjectVault repository will be documented in this file.
 
+## [668a693] - 2026-04-22
+### Adding SR+MLC report, ppt, and codes
+Added complete submission for the Joint Super-Resolution and Multi-Label Classification for Remote Sensing Imagery final year project by Shreya Pragna. This includes a comprehensive technical report, presentation slides, and two Jupyter notebooks containing the full data preparation pipeline and integrated model implementation. The project demonstrates a novel approach to jointly optimize satellite image enhancement and semantic land-cover classification using FLAIR-2 dataset with a three-stage progressive training strategy combining CVAE-based super-resolution, ResNet50-based multi-label classification, and Graph Neural Networks for spatial and label reasoning.
+
 ## [03fce9d] - 2026-04-22
 
 ### Initial commit: Initial commit
